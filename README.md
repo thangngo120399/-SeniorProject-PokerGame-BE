@@ -1,1 +1,2 @@
-# -SeniorProject-PokerGame-BE
+# Summer Internship 2021 - Poker - BE
+
